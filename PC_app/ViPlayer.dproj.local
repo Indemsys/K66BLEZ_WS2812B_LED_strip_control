@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.628,C:\Embedded\Projects\K66BLEZ\HapticController\Haptic_player\BLE.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.186,=C:\Embedded\Projects\K66BLEZ\HapticController\Haptic_player\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.752,C:\Embedded\Projects\K66BLEZ\HapticController\Haptic_player\BLE.pas=C:\Embedded\Projects\K66BLEZ\HapticController\Haptic_player\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.064,=C:\Embedded\Projects\K66BLEZ\HapticController\Haptic_player\Media_win\FMX.Media.Win.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.309,C:\Embedded\Projects\K66BLEZ\HapticController\Haptic_player\Media_win\FMX.Media.Win.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

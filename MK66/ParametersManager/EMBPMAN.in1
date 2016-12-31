@@ -1,0 +1,15 @@
+[TfrmCSorceGen]
+FormVersion=0
+Flags=0
+ShowCmd=1
+PixelsPerInch=96
+MinMaxPos(1920x1200)=-1,-1,-1,-1
+MinMaxPos=-1,-1,-1,-1
+NormPos(1920x1200)=208,208,953,509
+NormPos=208,208,953,509
+Visible=0
+deCSourcePath_DialogText=
+deCSourcePath_Text=d:\Embedded\Projects\Barduva\AutomaticDoorOpenerProject\MotorDriverController\Firmware\Application
+edGenFileName_Text=MDC01_Params
+MinMaxPos(1920x1080)=-1,-1,-1,-1
+NormPos(1920x1080)=208,208,953,509
